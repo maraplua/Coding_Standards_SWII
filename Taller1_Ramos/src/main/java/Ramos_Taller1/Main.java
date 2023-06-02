@@ -8,9 +8,9 @@ public class Main {
 	public Main() {
 		// TODO Auto-generated constructor stub
 	}
-	//CHECKSTYLE: OFF
+	// CHECKSTYLE: OFF
 	public static void main(String[] args) {
-	//CHECKSTYLE: ON
+	// CHECKSTYLE: ON
 		Scanner entrada = new Scanner(System.in);
 		System.out.println("1. New York");
         System.out.println("2. París");
